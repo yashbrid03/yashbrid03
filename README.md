@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on Javascript
 - 📫 How to reach me: [Instagram](https://www.instagram.com/yashbrid04/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbrid03&layout=compact)](https://github.com/yashbrid03?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbrid03&layout=compact&theme=synthwave)](https://github.com/yashbrid03?tab=repositories)
 
 

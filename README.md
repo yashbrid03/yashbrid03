@@ -8,8 +8,10 @@
 - 👯 I’m looking to collaborate on Javascript
 - 📫 How to reach me: [Instagram](https://www.instagram.com/yashbrid04/)
 
+<h2>Stats</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbrid03&layout=compact&theme=synthwave)](https://github.com/yashbrid03?tab=repositories)
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashbrid03&show_icons=true&theme=synthwave&hide=contribs,prs)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashbrid03&repo=Budget-calculator)](https://github.com/yashbrid03/Budget-calculator)
+<h2>Interesting Repo</h2>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashbrid03&repo=Budget-calculator&theme=synthwave)](https://github.com/yashbrid03/Budget-calculator)

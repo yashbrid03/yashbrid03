@@ -1,5 +1,5 @@
 <h1 align=center> Hi there, I'm Yash Brid 👋</h1>
-<h3 align=center> Student and Passionate learner </h3>
+<h3 align=center> Student and Passionate learner✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbrid03&color=orange" alt="views" /> </p>
 

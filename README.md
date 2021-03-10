@@ -1,4 +1,4 @@
-### Hi there, I'm Yash Brid 👋
+<h1 align=center> Hi there, I'm Yash Brid 👋</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitapuri" alt="ankitapuri" /> </p>

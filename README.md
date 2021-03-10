@@ -8,13 +8,13 @@
 - 👯 I’m looking to collaborate on Javascript
 - 📫 How to reach me: [Instagram](https://www.instagram.com/yashbrid04/)
 
-<h2>Statistics</h2>
+<h2>Statistics :</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbrid03&layout=compact&theme=synthwave)](https://github.com/yashbrid03?tab=repositories)
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashbrid03&show_icons=true&theme=synthwave&hide=contribs,prs)
 
-<h2>Interesting Repositories</h2>
+<h2>Interesting Repositories :</h2>
 
 <a href="https://github.com/yashbrid03/Budget-calculator" style="width:50%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashbrid03&repo=Budget-calculator&theme=radical" />
@@ -23,7 +23,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashbrid03&repo=Drumpad-in-java&theme=radical" />
 </a>
 
-### Languages and Tools:
+<h2>Languages and Tools:</h2>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />

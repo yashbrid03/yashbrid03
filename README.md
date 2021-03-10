@@ -11,3 +11,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbrid03&layout=compact&theme=synthwave)](https://github.com/yashbrid03?tab=repositories)
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashbrid03&show_icons=true&theme=synthwave&hide=contribs,prs)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashbrid03&repo=Budget-calculator)](https://github.com/yashbrid03/Budget-calculator)

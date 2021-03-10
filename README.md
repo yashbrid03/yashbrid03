@@ -7,6 +7,9 @@
 - 🌱 I’m currently learning Python and Javascript 
 - 👯 I’m looking to collaborate on Javascript
 - 📫 How to reach me: [Instagram](https://www.instagram.com/yashbrid04/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbrid03&layout=compact&theme=radical" alt="top lang stats" /></p>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashbrid03&show_icons=true&theme=radical" alt="stats" />
+
 

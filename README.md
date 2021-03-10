@@ -17,7 +17,7 @@
 <h2>Interesting Repo</h2>
 
 <a href="https://github.com/yashbrid03/Budget-calculator" style="width:50%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashbrid03&repo=Budget-calculator&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashbrid03&repo=Budget-calculator&theme=radical" />
 </a>
 <a href="https://github.com/yashbrid03/Drumpad-in-java" style="width:50%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashbrid03&repo=Drumpad-in-java&theme=radical" />

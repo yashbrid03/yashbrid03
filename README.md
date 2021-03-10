@@ -1,7 +1,7 @@
 <h1 align=center> Hi there, I'm Yash Brid 👋</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitapuri" alt="ankitapuri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbrid03" alt="ankitapuri" /> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

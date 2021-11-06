@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbrid03&color=orange" alt="views" /> </p>
 
-- 🔭 I’m currently working on <b>Tetris</b> game in Javascript and <b>Bookflix</b> Project in Python [Django]
+- 🔭 I’m currently working on <b>Bookflix</b> Project in Python [Django]
 - 🌱 I’m currently learning Python and Javascript 
 - 👯 I’m looking to collaborate on Javascript
 - 📫 How to reach me: [Instagram](https://www.instagram.com/yashbrid04/)

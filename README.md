@@ -1,6 +1,7 @@
 <h1 align=center> Hi there, I'm Yash Brid 👋</h1>
 <h3 align=center> Student and Passionate learner✨</h3>
 
+[![@yashbrid03's Holopin board](https://holopin.io/api/user/board?user=yashbrid03)](https://holopin.io/@yashbrid03)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbrid03&color=orange" alt="views" /> </p>
 
 - 🔭 I’m currently working on <b>Bookflix</b> Project in Python [Django]

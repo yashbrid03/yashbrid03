@@ -4,7 +4,6 @@
 [![@yashbrid03's Holopin board](https://holopin.io/api/user/board?user=yashbrid03)](https://holopin.io/@yashbrid03)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbrid03&color=orange" alt="views" /> </p>
 
-- 👯 I’m looking to collaborate on Javascript
 - 📫 How to reach me: [Instagram](https://www.instagram.com/yashbrid04/)
 
 <h2>Statistics :</h2>
@@ -15,6 +14,9 @@
 
 <h2>Interesting Repositories :</h2>
 
+<a href="https://github.com/yashbrid03/Drumpad-in-java" style="width:50%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashbrid03&repo=Ecommerce-Microservice&theme=radical" />
+</a>
 <a href="https://github.com/yashbrid03/Budget-calculator" style="width:50%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashbrid03&repo=BOOKFLIX-Analysis-and-Recommendation-System-&theme=radical" />
 </a>
@@ -33,3 +35,12 @@
 <img align="left" alt="Cpp" width="26px" src="https://content.nexza.com/stack-items/c-plus-plus.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" />
+<img align="left" alt="Spring" width="26px" src="https://github.com/user-attachments/assets/d057d2ad-1990-48b0-acaf-43af4885bc27" />
+<img align="left" alt="React" width="26px" src="https://github.com/user-attachments/assets/f79ba4fd-1845-4c7f-a007-bd48b31430cf"/>
+<img align="left" alt="MongoDB" width="26px" src="https://github.com/user-attachments/assets/e2d48ce4-83c4-435a-8178-8a3a824fa094"/>
+<img align="left" alt="MySQL" width="26px" src="https://github.com/user-attachments/assets/b71d06ff-98f7-4edd-9fb4-827a500409ff"/>
+<img align="left" alt="NodeJs" width="26px" src="https://github.com/user-attachments/assets/27b29bff-f03c-4723-8204-1cb567189f5b"/>
+
+
+
+

@@ -14,14 +14,14 @@
 
 <h2>Interesting Repositories :</h2>
 
-<a href="https://github.com/yashbrid03/Drumpad-in-java" style="width:50%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashbrid03&repo=Ecommerce-Microservice&theme=radical" />
+<a href="https://github.com/yashbrid03/BizzHack-RAG" style="width:50%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashbrid03&repo=BizzHack-RAG&theme=radical" />
 </a>
-<a href="https://github.com/yashbrid03/Budget-calculator" style="width:50%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashbrid03&repo=BOOKFLIX-Analysis-and-Recommendation-System-&theme=radical" />
+<a href="https://github.com/yashbrid03/Databricks_Repo" style="width:50%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashbrid03&repo=Databricks_Repo&theme=radical" />
 </a>
-<a href="https://github.com/yashbrid03/Drumpad-in-java" style="width:50%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashbrid03&repo=Drumpad-in-java&theme=radical" />
+<a href="https://github.com/yashbrid03/AzureDataFactory_project" style="width:50%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashbrid03&repo=AzureDataFactory_project&theme=radical" />
 </a>
 
 <h2>Languages and Tools:</h2>
